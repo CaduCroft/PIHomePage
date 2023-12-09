@@ -1,0 +1,19 @@
+<!-- res/drawable/avatar.xml -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Círculo de fundo -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#FF4081" /> <!-- Cor de fundo do círculo -->
+        </shape>
+    </item>
+
+    <!-- Ícone no centro do círculo
+    <item
+        android:drawable="@drawable/seu_icone"  Substitua "seu_icone" pelo nome do seu ícone
+    android:gravity="center" /> -->
+
+    <!-- Ícone no centro do círculo --><!-- Cor de fundo do círculo -->
+
+</layer-list>
